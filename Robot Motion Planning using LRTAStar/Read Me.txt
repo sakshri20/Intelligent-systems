@@ -1,0 +1,27 @@
++---------------------------------------------------------------+
+| Project Title	: Robot motion planning using LRTA* Algorithm|	|
+| Author		: Vaijyant Tomar	800990636					|
+|				  Sakshi Srivastava	800987926					|
++---------------------------------------------------------------+
+
+==> Program Language & Requirement ==============================
+- Program written in Java, and is a GUI Java Swing application
+- Project Built using JDK 9, 64-bit
+=================================================================
+
+==> Instructions to execute =====================================
+1) Double click on "LRTAStar.jar"
+2) Follow the instructions as shown in the GUI
+3) When prompted to select a CSV file, navigate to the extracted
+   "point.csv" file.
+4) Click on a tile to mark start (indicated by green on GUI)
+5) Again click on a tile to mark endd (indicated by red on GUI)
+6) The path traveresed is shown in pink.
+=================================================================
+
+==> Contents of Zip =============================================
+LRTA		: Folder containing IntelliJ project
+point.csv	: Input csv file containing points of the object
+LRTAStar.jar: Runnable jar (executable file) of the code
+Read Me.txt	: Read Me file	
+=================================================================
